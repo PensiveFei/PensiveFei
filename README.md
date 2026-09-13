@@ -1,6 +1,7 @@
 # Hi 👋 I'm Yanfei Ren
 
 TYUT Software Engineering student, focusing on LLM and agent development.
+
 I'm working toward becoming a professional full-stack engineer.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
